@@ -3,4 +3,5 @@
 Olá! Bem vindo ao Livro de receitas.
 
 - Strogonoff Vegetariano
+- Pavê
 
